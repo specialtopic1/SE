@@ -1,5 +1,7 @@
 # SE
 student Enrollment
+after download  remove st folder. 
+After download place th foder in XAMPP/htdocs/folder
 
 ------create table for user and inser data in database------. 
 
